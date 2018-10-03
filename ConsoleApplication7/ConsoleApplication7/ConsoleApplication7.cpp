@@ -18,7 +18,7 @@ int main(){
 void f(int input[][4]) {
 		for (int i = 0; i < 3; i++) {
 		for (int j = 0; j < 4; j++) {
-			cout << input[i][j] << "\t";
+			cout << input[i][j] << "\t"<<"\t";
 		}
 		cout << endl;
 	}
