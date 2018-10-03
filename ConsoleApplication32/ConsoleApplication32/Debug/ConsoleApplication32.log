@@ -1,4 +1,0 @@
-﻿  ConsoleApplication32.cpp
-c:\users\farshad\desktop\cpplearning\consoleapplication32\consoleapplication32\consoleapplication32.cpp(26): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
-  ConsoleApplication32.vcxproj -> C:\Users\Farshad\Desktop\CPPLearning\ConsoleApplication32\Debug\ConsoleApplication32.exe
-  ConsoleApplication32.vcxproj -> C:\Users\Farshad\Desktop\CPPLearning\ConsoleApplication32\Debug\ConsoleApplication32.pdb (Full PDB)

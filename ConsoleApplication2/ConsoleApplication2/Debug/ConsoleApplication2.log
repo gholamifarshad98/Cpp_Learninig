@@ -1,4 +1,0 @@
-﻿  ConsoleApplication2.cpp
-c:\users\farshad\desktop\cpplearning\consoleapplication2\consoleapplication2\consoleapplication2.cpp(102): warning C4101: 'n': unreferenced local variable
-  ConsoleApplication2.vcxproj -> C:\Users\Farshad\Desktop\CPPLearning\ConsoleApplication2\Debug\ConsoleApplication2.exe
-  ConsoleApplication2.vcxproj -> C:\Users\Farshad\Desktop\CPPLearning\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
