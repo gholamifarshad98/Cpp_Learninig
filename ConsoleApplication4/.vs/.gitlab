@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 2545409,
+    "Username": "gholamifarshad98",
+    "Name": "Farshad",
+    "Email": "gholamifarshad98@yahoo.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/e0ca69fedbf027a7a4ed2a6c6ca0261e?s=80&d=identicon",
+    "PrivateToken": "5ebed1fb8b8ad7517bc284cc6e9557b3bfa2d293b02611eaae761dfca8e42428",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}

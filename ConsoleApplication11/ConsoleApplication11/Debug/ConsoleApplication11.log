@@ -1,0 +1,4 @@
+﻿  ConsoleApplication11.cpp
+c:\users\farshad\desktop\cpplearning\consoleapplication11\consoleapplication11\consoleapplication11.cpp(14): warning C4101: 'i': unreferenced local variable
+  ConsoleApplication11.vcxproj -> C:\Users\Farshad\Desktop\CPPLearning\ConsoleApplication11\Debug\ConsoleApplication11.exe
+  ConsoleApplication11.vcxproj -> C:\Users\Farshad\Desktop\CPPLearning\ConsoleApplication11\Debug\ConsoleApplication11.pdb (Full PDB)

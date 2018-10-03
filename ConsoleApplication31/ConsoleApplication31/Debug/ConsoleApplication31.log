@@ -1,0 +1,6 @@
+﻿  ConsoleApplication31.cpp
+c:\users\farshad\desktop\cpplearning\consoleapplication31\consoleapplication31\consoleapplication31.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\farshad\desktop\cpplearning\consoleapplication31\consoleapplication31\consoleapplication31.cpp(56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\farshad\desktop\cpplearning\consoleapplication31\consoleapplication31\consoleapplication31.cpp(59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication31.vcxproj -> C:\Users\Farshad\Desktop\CPPLearning\ConsoleApplication31\Debug\ConsoleApplication31.exe
+  ConsoleApplication31.vcxproj -> C:\Users\Farshad\Desktop\CPPLearning\ConsoleApplication31\Debug\ConsoleApplication31.pdb (Full PDB)
